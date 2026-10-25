@@ -7,7 +7,7 @@ An end-to-end Power BI analytics platform designed to monitor and evaluate a mix
 The data model follows a structured relational schema connecting transaction facts with descriptive dimensions:
 * **Fact Table:** `Facts_stock` (tracking High, Low, Open, Close, Volume).
 * **Dimension Tables:** `Dim_Assets`, `Dim_Date`, `Dim_Transactions`, and `Dim_Investors`.
-* **Logic & Design:** Centralized `Measure` table for all DAX calculations and a dedicated `Theme` table for UI consistency.
+* **Logic & Design:** Centralized `Measure` table for all DAX calculations.
 
 ## 📊 Dashboard Pages & Key Insights
 
