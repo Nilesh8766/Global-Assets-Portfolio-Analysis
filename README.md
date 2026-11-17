@@ -1,6 +1,6 @@
 # 📈 Global Multi-Assets Portfolio Analysis Platform
 
-## 📌 Executive Summary
+## 📌 Executive Summary 
 An end-to-end Power BI analytics platform designed to monitor and evaluate a mixed portfolio of Stocks and Cryptocurrencies. The dashboard tracks 25 total assets across 50 investors, managing a total investment of 60.04M with an overall ROI of 16.10%.
 
 ## 🏗️ Data Architecture & Modeling
